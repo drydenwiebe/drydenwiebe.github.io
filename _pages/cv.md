@@ -18,19 +18,24 @@ Work experience
 * Summer 2021: Undergraduate Resarch Assistant
   * UBC Computer Science
 
+
 * Winter 2020 - Spring 2021: Software Engineer Intern
   * Apera
+
 
 * Spring 2020 (part time): Undergraduate Resarch Assistant
   * UBC Electrical and Computer Engineering
   * Supervisor: Lutz Lampe
 
+
 * Summer 2020: Software Development Engineer Intern
   * Amazon
 
+
 * Summer 2019: Data Scientest Intern
   * Statistics Canada
-  
+
+<!---
 Skills
 ======
 * Skill 1
@@ -61,3 +66,4 @@ Teaching
 Service and leadership
 ======
 * 
+-->
