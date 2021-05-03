@@ -11,21 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A.Sc. in Computer Engineering, University of British Columbia, 2017-present
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2021: Undergraduate Resarch Assistant
+  * UBC Computer Science
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Winter 2020 - Spring 2021: Software Engineer Intern
+  * Apera
+
+* Spring 2020 (part time): Undergraduate Resarch Assistant
+  * UBC Electrical and Computer Engineering
+  * Supervisor: Lutz Lampe
+
+* Summer 2020: Software Development Engineer Intern
+  * Amazon
+
+* Summer 2019: Data Scientest Intern
+  * Statistics Canada
   
 Skills
 ======
@@ -56,4 +60,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 
