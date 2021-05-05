@@ -10,5 +10,3 @@ citation: 'L. Atanackovic, V. Vakilian, D. Wiebe, L. Lampe and R. Diamant, "Stoc
 ---
 
 [Paper](https://www.ece.ubc.ca/~lampe/Preprints/2020-GAN-OCEANS.pdf)
-
-Recommended citation: L. Atanackovic, V. Vakilian, D. Wiebe, L. Lampe and R. Diamant, "Stochastic Ship-Radiated Noise Modelling Via Generative Adversarial Networks," Global Oceans 2020: Singapore – U.S. Gulf Coast, 2020.
