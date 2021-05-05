@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Stochastic Ship-radiated Noise Modelling via Generative Adversarial Networks"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2020-GAN-OCEANS
+excerpt: 'We train a GAN to model the noise in underwater acoustic '
+date: 2020-10-05
+venue: 'Global Oceans 2020: Singapore–US Gulf Coast'
+paperurl: 'https://www.ece.ubc.ca/~lampe/Preprints/2020-GAN-OCEANS.pdf'
+citation: 'L. Atanackovic, V. Vakilian, D. Wiebe, L. Lampe and R. Diamant, "Stochastic Ship-Radiated Noise Modelling Via Generative Adversarial Networks," Global Oceans 2020: Singapore – U.S. Gulf Coast, 2020, pp. 1-8, doi: 10.1109/IEEECONF38699.2020.9389159.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Paper](https://www.ece.ubc.ca/~lampe/Preprints/2020-GAN-OCEANS.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: L. Atanackovic, V. Vakilian, D. Wiebe, L. Lampe and R. Diamant, "Stochastic Ship-Radiated Noise Modelling Via Generative Adversarial Networks," Global Oceans 2020: Singapore – U.S. Gulf Coast, 2020.
